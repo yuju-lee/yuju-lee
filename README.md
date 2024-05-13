@@ -1,4 +1,4 @@
-![HEADER](MARKDOWN.png)
+![HEADER](README.png)
 
 ### Hi there 👋
 
