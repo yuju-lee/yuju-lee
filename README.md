@@ -9,9 +9,6 @@
 - 📫 You can reach me: **periq23@gmail.com**
 - 🤓 linkedin: **https://www.linkedin.com/in/yuju-lee**
 
-<h4>📍 My status</h4>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yuju-lee&theme=tokyonight&hide_border=true&border_radius=0&background=EB545400&hide_total_contributions=true" alt="GitHub Streak" /></a>
-
 <h4>📕 My Tech Stack</h4>
 
 - 🌱 BACK-END
