@@ -8,6 +8,7 @@
 
 - 📫 You can reach me: **periq23@gmail.com**
 - 🤓 linkedin: **https://www.linkedin.com/in/yuju-lee**
+- 📝 tech blog: **https://yuju-lee.github.io/**
 
 <h4>📕 My Tech Stack</h4>
 
