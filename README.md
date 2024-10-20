@@ -1,7 +1,5 @@
-![HEADER](README.png)
-
 <h1>Hi 👋, I'm Judy</h1>
-<h3>A passionate Back-end engineer from South Korea</h3>
+<h3>A passionate Back-end engineer from South Korea!</h3>
 
 
 - 🌱 I’m currently learning **Java SpringBoot**
