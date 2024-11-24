@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Judy</h1>
+<h1>I'm Judy</h1>
 <h3>Back-end engineer from South Korea!</h3>
 
 
